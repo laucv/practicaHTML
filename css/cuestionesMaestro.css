@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font: 50px Verdana;
+    padding: 25px;
+}
+.botones{
+    float: right;
+}
+.preguntas{
+    padding: 5px;
+    text-align: justify;
+}
+.btn btn-info{
+    padding: 5px;
+}
